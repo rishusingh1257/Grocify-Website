@@ -1,2 +1,2 @@
 # Grocify-Website
-GROCIFY
+This is My First Git Respository
